@@ -3,6 +3,8 @@ id: about
 title: About
 ---
 
+I am Raquel Garcia. I am an aspiring software engineer currently taking community college courses in Computer Science to grow my knowledge in programming. (This About me is in progess...)
+
 You can start your "About" page with an elevator pitch, one or two
 sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
@@ -19,7 +21,7 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Grace Hopper Celebration Attendee 2020
 
 ## Recognition
 
